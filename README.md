@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# It's Zampl
 
-You can use the [editor on GitHub](https://github.com/Zampl/zamp-content/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Zampl (from the word "Example") is an organization and site I use as a writer to test GitHub functionality and to get screenshots. The URL to view the rendered site is **[zampl.github.io](http://zampl.github.io)**. Repositories under Zampl are termed "zamps" for no particular reason except that it sounds cool, IMHO.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There is a marketing software company called [Zample](https://www.linkedin.com/company/zampl/). This is not that company; the fact that we have the same name is just a coincidence.
 
-### Markdown
+Thank you for visiting.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+— _Derek Gamlyn_
 
-```markdown
-Syntax highlighted code block
+## Links to helpful online resources
 
-# Header 1
-## Header 2
-### Header 3
+Here are some online resources I have found to be extremely helpful in learning about Git and GitHub.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zampl/zamp-content/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [GitHub Help](https://help.github.com/)
+- [GitHub Glossary](https://help.github.com/articles/github-glossary/)
