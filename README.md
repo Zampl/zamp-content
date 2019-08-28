@@ -1,6 +1,6 @@
 # Hello from Zampl/zamp-content
 
-Zampl (from the word "Example") is an organization and site I use as a writer to test GitHub functionality and to get screenshots. Repositories under Zampl are termed "zamps," as in zamp-content.
+Zampl (from the word "Example") is an organization and site I use as a writer and consultant to test GitHub functionality and to get screenshots. Repositories under Zampl are termed "zamps," as in zamp-content.
 
 Thank you for visiting.
 
